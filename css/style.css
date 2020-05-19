@@ -11,6 +11,8 @@ body {
     padding: 0;
     width: 100%;
     overflow-x: hidden;
+	width: fit-content;
+    height: fit-content;
 	font-size: 100%;
 	background: #fff;
 	font-family: 'Nunito', sans-serif;
