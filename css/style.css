@@ -10,8 +10,7 @@ body {
     margin: 0;
     padding: 0;
     width: 100%;
-    
-	-ms-touch-action:none;
+    overflow-x: hidden;
 	font-size: 100%;
 	background: #fff;
 	font-family: 'Nunito', sans-serif;
